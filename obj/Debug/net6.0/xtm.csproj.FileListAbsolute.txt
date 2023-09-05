@@ -1,0 +1,15 @@
+C:\Users\frais\xtm\bin\Debug\net6.0\xtm.exe
+C:\Users\frais\xtm\bin\Debug\net6.0\xtm.deps.json
+C:\Users\frais\xtm\bin\Debug\net6.0\xtm.runtimeconfig.json
+C:\Users\frais\xtm\bin\Debug\net6.0\xtm.dll
+C:\Users\frais\xtm\bin\Debug\net6.0\xtm.pdb
+C:\Users\frais\xtm\obj\Debug\net6.0\xtm.csproj.AssemblyReference.cache
+C:\Users\frais\xtm\obj\Debug\net6.0\xtm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frais\xtm\obj\Debug\net6.0\xtm.AssemblyInfoInputs.cache
+C:\Users\frais\xtm\obj\Debug\net6.0\xtm.AssemblyInfo.cs
+C:\Users\frais\xtm\obj\Debug\net6.0\xtm.csproj.CoreCompileInputs.cache
+C:\Users\frais\xtm\obj\Debug\net6.0\xtm.dll
+C:\Users\frais\xtm\obj\Debug\net6.0\refint\xtm.dll
+C:\Users\frais\xtm\obj\Debug\net6.0\xtm.pdb
+C:\Users\frais\xtm\obj\Debug\net6.0\xtm.genruntimeconfig.cache
+C:\Users\frais\xtm\obj\Debug\net6.0\ref\xtm.dll
